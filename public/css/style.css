@@ -1,0 +1,18 @@
+.navFont{
+	font-family: 'Cookie', cursive;
+	font-size: 35px;
+}
+.cardFont{
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 60px;
+	text-align: center;
+	margin: 40px;
+}
+.buttonFont{
+	font-size: 40px;
+	font-family: 'Patua One', cursive;
+}
+.taskFont{
+	font-family: 'Caveat', cursive;
+	font-size: 25px;
+}
